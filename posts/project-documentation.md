@@ -1,6 +1,6 @@
 ---
 title: "Understanding Our Simple Blog Project"
-date: "2023-10-27"
+date: "2099-01-01"
 author: "Jules the AI Assistant"
 category: "Project Info"
 summary: "A brief guide to the structure and functionality of this blog project, including how to add new posts and understand its technical workings."

@@ -13,9 +13,9 @@
 
     <nav>
         <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">Archives</a></li>
-            <li><a href="#">About</a></li>
+            <li><a href="#" id="nav-home">Home</a></li>
+            <li><a href="#" id="nav-archives">Archives</a></li>
+            <li><a href="#" id="nav-about">About</a></li>
         </ul>
     </nav>
 
@@ -29,6 +29,12 @@
     </main>
 
     <aside>
+        <section id="search-section">
+            <h2>Search</h2>
+            <input type="text" id="search-input" placeholder="Search posts...">
+            <button id="search-button">Search</button>
+            <div id="search-results-message" class="search-meta"></div>
+        </section>
         <section id="category-list">
             <h2>Categories</h2>
             <!-- Category links will go here -->
