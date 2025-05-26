@@ -1,7 +1,7 @@
 ---
 title: "Understanding JavaScript Closures"
 author: "Jane Smith"
-date: "2023-10-27"
+date: "2023-10-25"
 category: "Programming"
 summary: "A deep dive into JavaScript closures and how they work."
 ---
